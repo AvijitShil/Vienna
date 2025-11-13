@@ -1,4 +1,4 @@
-# 🎤 Vienna - AI Voice Medical Assistant
+# 🎤 Vienna - AI Voice Agent
 
 All API should be added on own, There is instruction how to do it 
 
