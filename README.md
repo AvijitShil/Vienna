@@ -64,39 +64,7 @@ Perfect for **agentic healthcare & productivity applications**, deployable anywh
 
 <br>
 
-### 🎭 Voice Cloning Technology
-
-Vienna's **voice cloning capability** is its standout feature. Here's what makes it revolutionary:
-
-#### 🔬 How It Works
-
-1. **Quick Setup** - Clone any voice in just 2-3 minutes
-2. **High Fidelity** - Captures tone, pitch, accent, and speaking style
-3. **Natural Emotions** - Maintains emotional expressiveness and intonation
-4. **Zero Degradation** - Consistent quality across all responses
-5. **Instant Switching** - Change voices on-the-fly with a simple ID change
-
-#### 🎨 Voice Cloning Options
-
-**Option 1: Clone Your Own Voice**
-- Record 30 seconds to 2 minutes of your voice
-- Upload to Cartesia Voice Lab
-- Get instant voice model trained on your voice
-- Vienna speaks exactly like you!
-
-**Option 2: Clone Any Voice**
-- Family members for familiar interaction
-- Professional voices for business use
-- Celebrity-style voices (with proper permissions)
-- Multiple personas for different use cases
-
-**Option 3: Preset Professional Voices**
-- 50+ high-quality preset voices
-- Multiple accents and languages
-- Age ranges from young to elderly
-- Gender-neutral options available
-
-#### 🎬 Current Configuration
+### 🎬 Current Configuration
 
 Vienna currently uses the **creator's own cloned voice** for authentic interactions:
 - **Voice ID**: `abc6eacf-2626-4d87-902b-7b49c2dcae16`
