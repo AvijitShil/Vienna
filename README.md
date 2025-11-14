@@ -236,7 +236,7 @@ Voice Output (Speakers/Headphones)
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Vienna.git
+git clone https://github.com/Avijitshil/Vienna.git
 cd Vienna
 ```
 
