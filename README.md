@@ -17,6 +17,8 @@ Features autonomous actions, medical guidance, strong privacy, and **fully custo
 ---
 Demo Video : https://www.linkedin.com/posts/avijit-shil-427125332_voiceai-voicecloning-aiwithpersonality-activity-7395231978154872832-10eT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFOq8h8B-_Tw1qwZu38sKyDkMJPwR5kXX6Y
 
+Youtube : **https://youtu.be/sKE2JrOVLhs**
+
 </div>
 
 ## 📋 Overview
