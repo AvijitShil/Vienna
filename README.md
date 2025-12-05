@@ -1,4 +1,4 @@
-# 🎤 Vienna - AI Voice Agent
+# 🎤 Vienna - AI Voice Agent For Medical Expertise aka Medpulse
 
 All API should be added on own, There is instruction how to do it 
 
@@ -15,9 +15,8 @@ Features autonomous actions, medical guidance, strong privacy, and **fully custo
 [Features](#-features) • [Installation](#-installation) • [Voice Cloning](#-voice-cloning-guide) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
 
 ---
-Demo Video : https://www.linkedin.com/posts/avijit-shil-427125332_voiceai-voicecloning-aiwithpersonality-activity-7395231978154872832-10eT?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFOq8h8B-_Tw1qwZu38sKyDkMJPwR5kXX6Y
 
-Youtube : **https://youtu.be/sKE2JrOVLhs**
+***Youtube Demo video*** : **https://youtu.be/sKE2JrOVLhs**
 
 </div>
 
@@ -27,10 +26,12 @@ Youtube : **https://youtu.be/sKE2JrOVLhs**
 
 ### 🎯 What Makes Vienna Special?
 
-Vienna features **revolutionary voice cloning technology** that allows it to speak in ANY voice you want - including your own! Using Cartesia's Sonic 3 TTS engine, Vienna can be customized to sound exactly like you, a loved one, or any voice profile you create. The current deployment uses the creator's own cloned voice for authentic, personalized interactions.
+Vienna features **revolutionary voice cloning technology** that allows it to speak in ANY voice you want - a revolutionary next-generation multilingual voice assistant designed for real-world chaos , including your own! Using Cartesia's Sonic 3 TTS engine, Vienna can be customized to sound exactly like you, a loved one, or any voice profile you create. The current deployment uses the creator's own cloned voice for authentic, personalized interactions.
 
-Perfect for **agentic healthcare & productivity applications**, deployable anywhere with enterprise-grade privacy and security.
+Perfect for **agentic healthcare & productivity applications**, deployable anywhere with enterprise-grade privacy and security. Expertising in medical conversations like a human, takes less time than a doctor to response.
+ Vienna shatters the language barrier with comprehensive support for Indian regional languages (Assamese, Bengali, Tamil, Telugu, Malayalam, and 10+ more) alongside international languages (English, Chinese, Spanish, Arabic, and 90+ more). With advanced Background Voice Cancellation (BVC), BoliGen isolates your voice even in chaotic environments like crowded markets, busy streets, or noisy offices - making it the first truly noise-proof, hyper-realistic AI companion.
 
+Perfect for global communication, healthcare, education & customer service, deployable anywhere with enterprise-grade privacy.
 <br>
 
 ## 🌟 Key Highlights
@@ -47,6 +48,8 @@ Perfect for **agentic healthcare & productivity applications**, deployable anywh
 | 🎙️ **Real-time Processing** | End-to-end latency <500ms with preemptive generation technology |
 | 🔇 **Advanced Noise Cancellation** | LiveKit BVC removes background noise, echo, and ambient sounds |
 | 🔒 **Enterprise Security** | Zero data retention, encrypted WebRTC, HIPAA-ready architecture |
+🎭 Revolutionary Voice Cloning	Clone ANY voice in 2-3 minutes - your own, family, friends, or custom personas
+🗣️ Hyper-Realistic Voice	Cartesia Sonic TTS with fully customizable voice options and emotions
 
 <br>
 
@@ -67,6 +70,29 @@ Perfect for **agentic healthcare & productivity applications**, deployable anywh
 
 <br>
 
+## 🌐 Supported Languages
+
+Vienna Aka Medpulse supports **100+ languages** with native pronunciation and cultural context awareness.
+
+### 🇮🇳 Indian Regional Languages (15)
+
+| Language | Script | Native Name | Status |
+|----------|--------|-------------|--------|
+| **Assamese** | অসমীয়া | Ôxômiya | ✅ Full Support |
+| **Bengali** | বাংলা | Bangla | ✅ Full Support |
+| **Gujarati** | ગુજરાતી | Gujarātī | ✅ Full Support |
+| **Kannada** | ಕನ್ನಡ | Kannaḍa | ✅ Full Support |
+| **Malayalam** | മലയാളം | Malayāḷam | ✅ Full Support |
+| **Marathi** | मराठी | Marāṭhī | ✅ Full Support |
+| **Nepali** | नेपाली | Nepālī | ✅ Full Support |
+| **Punjabi** | ਪੰਜਾਬੀ | Pañjābī | ✅ Full Support |
+| **Pashto** | پښتو | Pax̌tō | ✅ Full Support |
+| **Sanskrit** | संस्कृतम् | Saṃskṛtam | ✅ Full Support |
+| **Sindhi** | سنڌي | Sindhī | ✅ Full Support |
+| **Sinhala** | සිංහල | Siṁhala | ✅ Full Support |
+| **Tamil** | தமிழ் | Tamiḻ | ✅ Full Support |
+| **Telugu** | తెలుగు | Telugu | ✅ Full Support |
+| **Urdu** | اردو | Urdū | ✅ Full Support |
 ### 🎬 Current Configuration
 
 Vienna currently uses the **creator's own cloned voice** for authentic interactions:
